@@ -3,17 +3,22 @@
     {
       "id": 1,
       "name": "Cinnamon",
-      "count": 5
+      "count": 20
     },
     {
       "id": 2,
       "name": "Chicken",
-      "count": 4
+      "count": 5
     },
     {
       "name": "PSL",
-      "count": 1,
+      "count": 5,
       "id": 4
+    },
+    {
+      "name": "Seltzer",
+      "count": 4,
+      "id": 5
     }
   ]
 }
